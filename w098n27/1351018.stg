@@ -1,0 +1,101 @@
+OBJECT_BASE 1351018.btg
+OBJECT 3TX0.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.434899 27.741333 -9999.0 0.00
+OBJECT KNGP.btg
+OBJECT_SHARED Models/Airport/windsock.xml -97.290735 27.692244 3.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.284164 27.686110 4.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.281075 27.686264 4.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.291843 27.694200 2.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.296294 27.690107 2.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.300544 27.700719 0.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.287866 27.699342 2.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.279123 27.703818 1.1 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.268033 27.699515 2.1 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -97.269497 27.700608 1.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -97.286668 27.693499 3.6 0.00
+OBJECT_SIGN {@L}R{@Y}17-35{^r}|04{^r} -97.283379 27.689391 4.3 163.01 2
+OBJECT_SIGN {@Y,^l}35|{^l}31L|31R{@L}R -97.283326 27.689371 4.3 160.30 2
+OBJECT_SIGN {@Y,^lu}D{@L}C{@Y}A{^r} -97.283916 27.691196 4.1 195.46 2
+OBJECT_SIGN {@Y,^l}35|{^l}31L|{^l}31R{@L}Y{@Y}17-35{^r} -97.286277 27.691986 3.8 136.23 2
+OBJECT_SIGN {@L}Y{@Y,^u}17-35{@@,^ld}B{@L}Y -97.287007 27.692617 3.7 47.73 2
+OBJECT_SIGN {@L}Y{@Y,^u}17-35{@@,^ld}B{@L}Y -97.286740 27.692865 3.7 47.73 2
+OBJECT_SIGN {@Y}17-35{^u,@L}Y{@Y}B{^ru,@@,^lu}A{@L}Y{@Y}A{^rd} -97.285837 27.691568 3.9 46.85 2
+OBJECT_SIGN {@Y}17-35{^u,@L}Y{@Y}B{^ru,@@,^lu}A{@L}Y{@Y}A{^rd} -97.285545 27.691796 3.9 46.85 2
+OBJECT_SIGN {@Y,^lu}E{@L}Y{@Y}E{^rd,@@,^l}W{@L}Y{@Y}31R{^r}|31L|Z{^rd} -97.282087 27.688731 4.4 45.00 2
+OBJECT_SIGN {@Y,^lu}E{@L}Y{@Y}E{^rd,@@,^l}W{@L}Y{@Y}31R{^r}|31L|Z{^rd} -97.282393 27.688472 4.4 45.00 2
+OBJECT_SIGN {@Y,^lu}Y{@L}A{@Y}Y{^rd,@@,^lu}C{@L}A{@Y}R{^r} -97.284349 27.691047 4.1 93.73 2
+OBJECT_SIGN {@Y,^lu}Y{@L}A{@Y}Y{^rd,@@,^lu}C{@L}A{@Y}R{^r} -97.284408 27.691513 4.0 93.73 2
+OBJECT_SIGN {@Y,^lu}Y|{^l}E{@L}R{@Y}Y{^rd}|E{^r,@@,^l}A|{^u}C{@L}R{@Y}C{^u}|D{^r} -97.283002 27.690272 4.3 180.00 2
+OBJECT_SIGN {@Y,^lu}Y|{^l}E{@L}R{@Y}Y{^rd}|E{^r,@@,^l}A|{^u}C{@L}R{@Y}C{^u}|D{^r} -97.283453 27.690552 4.2 180.00 2
+OBJECT_SIGN {@Y,^l}Y{@L}13R{@Y}Z{^rd,@@,@L}31L -97.285109 27.686773 4.4 225.00 2
+OBJECT_SIGN {@L}31L{@Y}Y{^r,@@,@L}13R -97.299722 27.698397 1.1 47.12 2
+OBJECT_SIGN {@L}31L{@Y}Y{^r,@@,@L}13R -97.299046 27.699167 1.2 47.12 2
+OBJECT_SIGN {@Y,^l}Y{@L}13L{@Y}Y{^r,@@,@L}31R -97.283421 27.688308 4.4 226.55 2
+OBJECT_SIGN {@Y,^l}Y{@L}13L{@Y}Y{^r,@@,@L}31R -97.284252 27.687584 4.4 226.55 2
+OBJECT_SIGN {@Y,^l}Y{@L}13R{@Y}Z{^rd,@@,@L}31L -97.285899 27.686123 4.4 225.00 2
+OBJECT_SIGN {@Y,^l}APRON|{^l}D{@L}E{@Y}D{^r,@@,^lu}W|{^ld}Y{@L}E{@Y}R{^r}|Y{^ru} -97.279925 27.689724 4.4 277.06 2
+OBJECT_SIGN {@Y,^l}APRON|{^l}D{@L}E{@Y}D{^r,@@,^lu}W|{^ld}Y{@L}E{@Y}R{^r}|Y{^ru} -97.279903 27.689055 4.4 266.57 2
+OBJECT_SIGN {@Y,^ld}R|{^lu}E{@L}Y{@Y}E{^rd,@@,^lu}A{@L}Y{@Y}A{^rd} -97.284262 27.690701 4.1 228.81 2
+OBJECT_SIGN {@Y,^ld}R|{^lu}E{@L}Y{@Y}E{^rd,@@,^lu}A{@L}Y{@Y}A{^rd} -97.284575 27.690428 4.1 228.81 2
+OBJECT_SIGN {@L}Z{@R}35{@@,safety,@L}Z -97.287698 27.685407 4.3 84.96 2
+OBJECT_SIGN {@L}Z{@R}35{@@,safety,@L}Z -97.287686 27.685583 4.3 84.96 2
+OBJECT_SIGN {@R,^l}35|{^ld}31R{@L}A{@R}13L{^ru}|17{^r,@@,safety,@Y,^ld}Y{@L}A{@Y}Y{^ru} -97.286132 27.690973 4.0 95.19 2
+OBJECT_SIGN {@R,^l}04{@L}Y{@R}22{^r,@@,safety,@L}Y -97.290154 27.695442 2.9 47.64 2
+OBJECT_SIGN {@R,^l}04{@L}Y{@R}22{^r,@@,safety,@L}Y -97.289925 27.695657 2.9 47.64 2
+OBJECT_SIGN {@R,^ld}17{@L}Y{@R}35{^ru,@@,safety,@L}Y -97.289536 27.694885 3.1 219.99 2
+OBJECT_SIGN {@R,^ld}17{@L}Y{@R}35{^ru,@@,safety,@L}Y -97.289307 27.695105 3.1 219.99 2
+OBJECT_SIGN {@R,^ld}35{@L}Y{@R}17{^ru,@@,safety,@Y,^ld}B|{^lu}A{@L}Y{@Y}A{^rd} -97.287379 27.693393 3.5 43.02 2
+OBJECT_SIGN {@R,^ld}35{@L}Y{@R}17{^ru,@@,safety,@Y,^ld}B|{^lu}A{@L}Y{@Y}A{^rd} -97.287627 27.693180 3.5 43.02 2
+OBJECT_SIGN {@R,^l}35|{^ld}31R{@L}A{@R}13L{^ru}|17{^r,@@,safety,@Y,^lu}Y{@L}A{@Y}Y{^rd} -97.286155 27.691363 3.9 95.19 2
+OBJECT_SIGN {@L}D{@R}31R{@@,safety,@Y,^lu}E{@L}D -97.280619 27.686158 4.5 153.44 2
+OBJECT_SIGN {@L}D{@R}31R{@@,safety,@Y,^lu}E{@L}D -97.280792 27.686244 4.5 153.44 2
+OBJECT_SIGN {@Y,^u}Z|35{^u,@L}Y{@R}31L{@@,safety,@L}Y -97.283626 27.685546 4.5 134.44 2
+OBJECT_SIGN {@Y,^u}Z|35{^u,@L}Y{@R}31L{@@,safety,@L}Y -97.284039 27.685911 4.5 134.44 2
+OBJECT_SIGN {@R,^l}13L{@L}Y{@R}31R{^r,@@,safety,@L}Y -97.282969 27.686115 4.5 318.01 2
+OBJECT_SIGN {@R,^l}13L{@L}Y{@R}31R{^r,@@,safety,@L}Y -97.283388 27.686481 4.5 318.01 2
+OBJECT_SIGN {@R,^l}31L|31R{^u,@L}Y{@R}13R{^r,@@,safety,@L}Y{@Y,^u}W -97.282297 27.687468 4.5 139.90 2
+OBJECT_SIGN {@R,^l}31L|31R{^u,@L}Y{@R}13R{^r,@@,safety,@L}Y{@Y,^u}W -97.281862 27.687086 4.5 139.90 2
+OBJECT_SIGN {@R,^l}35|{^ld}31L{@L}E{@R}13R{^ru}|17{^r,@@,safety,@Y,^lu}13L{@L}E{@Y}31R{^rd} -97.287571 27.689370 4.0 93.58 2
+OBJECT_SIGN {@R,^l}35|{^ld}31L{@L}E{@R}13R{^ru}|17{^r,@@,safety,@Y,^lu}13L{@L}E{@Y}31R{^rd} -97.287568 27.689718 3.9 93.58 2
+OBJECT_SIGN {@R,^ld}31R{@L}E{@R}13L{^ru,@@,safety,@Y,^lu}Y|{^l}R{@L}E{@Y}Y{^rd} -97.284264 27.689353 4.3 88.15 2
+OBJECT_SIGN {@R,^ld}31R{@L}E{@R}13L{^ru,@@,safety,@Y,^lu}Y|{^l}R{@L}E{@Y}Y{^rd} -97.284273 27.689712 4.2 88.15 2
+OBJECT_SIGN {@R,^lu}13L{@L}E{@R}31R{^rd,@@,safety,@Y,^ld}31L|{^l}35{@L}E{@Y}17{^r}|13R{^ru} -97.287051 27.689327 4.0 270.00 2
+OBJECT_SIGN {@R,^lu}13L{@L}E{@R}31R{^rd,@@,safety,@Y,^ld}31L|{^l}35{@L}E{@Y}17{^r}|13R{^ru} -97.287057 27.689711 4.0 270.00 2
+OBJECT_SIGN {@R,^ld}13R|{^l}17{@L}E{@R}36{^r}|35{^rd,@@,safety,@L}E{@Y}04{^u} -97.290172 27.689278 3.7 267.51 2
+OBJECT_SIGN {@R,^ld}13R|{^l}17{@L}E{@R}36{^r}|35{^rd,@@,safety,@L}E{@Y}04{^u} -97.290167 27.689744 3.6 267.51 2
+OBJECT_SIGN {@L}E{@R}04{@@,safety,@L}E -97.296596 27.689729 2.4 47.73 2
+OBJECT_SIGN {@L}E{@R}04{@@,safety,@L}E -97.296802 27.689549 2.3 47.73 2
+OBJECT_SIGN {@R,^l}13R{@B}04{@R}31L{^r,@@,@Y,^l}E{@B}22{safety} -97.293754 27.692742 2.7 318.81 2
+OBJECT_SIGN {@R,^l}13R{@B}04{@R}31L{^r,@@,@Y,^l}E{@B}22{safety} -97.294403 27.693310 2.5 318.81 2
+OBJECT_SIGN {@R,^l}31L{@L}A{@R}13R{@@,@B}04{safety} -97.292545 27.693802 2.8 139.97 2
+OBJECT_SIGN {@R,^l}31L{@L}A{@R}13R{@@,@B}04{safety} -97.293207 27.694360 2.6 139.97 2
+OBJECT_SIGN {@B}04{@R}13L{@@,@Y,^l}31L{@B}22{@Y}13R{^r} -97.292147 27.694232 2.8 312.88 2
+OBJECT_SIGN {@B}04{@R}13L{@@,@Y,^l}31L{@B}22{@Y}13R{^r} -97.292754 27.694763 2.6 312.88 2
+OBJECT_SIGN {@R}13L{@B}22{@@,@Y,^l}Y{@B}04{@Y}Y{^r} -97.290955 27.695288 2.8 133.12 2
+OBJECT_SIGN {@R}13L{@B}22{@@,@Y,^l}Y{@B}04{@Y}Y{^r} -97.291537 27.695810 2.7 133.12 2
+OBJECT_SIGN {@B}22{@R,^ld}17{@@,@B}04{@Y}C{^rd} -97.287690 27.699263 2.4 135.00 2
+OBJECT_SIGN {@B}04{@R}17{^rd,@Y,^u}C{@@,^l}Y{@B}22{@Y}Y{^r} -97.289224 27.696831 2.8 318.37 2
+OBJECT_SIGN {@B}04{@R}17{^rd,@Y,^u}C{@@,^l}Y{@B}22{@Y}Y{^r} -97.289810 27.697339 2.6 318.37 2
+OBJECT_SIGN {@B}22{@R,^ld}17{@@,@B}04{@Y}C{^rd} -97.287057 27.698707 2.6 135.00 2
+OBJECT_SIGN {@Y,^ld}13L|{^ld}17{@L}C{@@}C -97.285958 27.699035 2.6 21.50 2
+OBJECT_SIGN {@Y,^ld}13L|{^ld}17{@L}C{@@}C -97.286318 27.698902 2.6 21.50 2
+OBJECT_SIGN {@R,^l}22{@L}C{@@}C{safety} -97.286286 27.698914 2.6 23.55 2
+OBJECT_SIGN {@R,^l}22{@L}C{@@}C{safety} -97.285990 27.699024 2.6 23.55 2
+OBJECT_SIGN {@Y,^l}C|{^ld}17{@L}Y{@Y}13L{^r}|13R-31R{^r}|E{^r}_{@@,@L}Y -97.291394 27.696503 2.6 226.40 2
+OBJECT_SIGN {@Y,^l}C|{^ld}17{@L}Y{@Y}13L{^r}|13R-31R{^r}|E{^r}_{@@,@L}Y -97.291117 27.696737 2.6 226.40 2
+OBJECT_SIGN {@Y,^l}Y{@L}B{@Y}Y{^r,@@,^lu}C{@L}B{@Y}C{^rd} -97.285232 27.693115 3.8 154.29 2
+OBJECT_SIGN {@Y,^l}Y{@L}B{@Y}Y{^r,@@,^lu}C{@L}B{@Y}C{^rd} -97.285645 27.693509 3.7 154.29 2
+OBJECT_SIGN {@R,^l}22{@L}Y{@R}04L{^r,@@,safety,@L}Y{@Y}13R -97.291354 27.696537 2.6 228.95 2
+OBJECT_SIGN {@R,^l}22{@L}Y{@R}04L{^r,@@,safety,@L}Y{@Y}13R -97.291136 27.696721 2.6 228.95 2
+OBJECT_SIGN {@R,^l}22{@L}Y{@R}04L{^r,@@,safety,@L}Y{@Y}13R -97.291136 27.696721 2.6 228.95 2
+OBJECT_SIGN {@L}Y{@R}13R{@@,safety,@L}Y -97.300153 27.701423 0.8 138.72 2
+OBJECT_SIGN {@L}Y{@R}13R{@@,safety,@L}Y -97.300485 27.701702 0.7 138.72 2
+OBJECT KNGW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.442799 27.705959 7.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.441037 27.710085 9.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.440916 27.697403 2.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.432504 27.696674 3.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -97.436666 27.702083 5.7 0.00
+OBJECT KNWL.btg
+OBJECT TE42.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -97.384528 27.748805 -9999.0 0.00

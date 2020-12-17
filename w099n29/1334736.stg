@@ -1,0 +1,10 @@
+OBJECT_BASE 1334736.btg
+OBJECT KCVB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.850053 29.342898 233.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -98.847912 29.343566 231.5 0.00
+OBJECT T89.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.850016 29.342741 233.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -98.848041 29.343903 231.8 0.00
+OBJECT XS86.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.927703 29.268015 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.922911 29.265792 -9999.0 0.00
